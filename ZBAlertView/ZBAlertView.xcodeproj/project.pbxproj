@@ -204,13 +204,16 @@
 				TargetAttributes = {
 					0406EEBD20C0D7890022E5B2 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1010;
 					};
 					0406EED120C0D78A0022E5B2 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1010;
 						TestTargetID = 0406EEBD20C0D7890022E5B2;
 					};
 					0406EEDC20C0D78A0022E5B2 = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1010;
 						TestTargetID = 0406EEBD20C0D7890022E5B2;
 					};
 				};
@@ -451,7 +454,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ZBAlertView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -469,7 +472,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ZBAlertView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -489,7 +492,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ZBAlertViewTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ZBAlertView.app/ZBAlertView";
 			};
@@ -510,7 +513,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ZBAlertViewTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ZBAlertView.app/ZBAlertView";
 			};
@@ -530,7 +533,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ZBAlertViewUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = ZBAlertView;
 			};
@@ -550,7 +553,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ZBAlertViewUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = ZBAlertView;
 			};
